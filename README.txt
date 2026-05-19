@@ -49,4 +49,4 @@ sistema de contacto de V&Tech, estructurado de la siguiente manera:
 
 Desarrollado con arquitectura limpia, grillas elásticas (CSS Grid / Flexbox) 
 y enlaces directos de documentación técnica de fabricantes (ASUS, AMD, 
-Gigabyte, Intel, ASRock, Nvidia).
+Gigabyte, Intel, ASRock, Nvidia). 
