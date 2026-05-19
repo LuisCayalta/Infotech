@@ -1,4 +1,4 @@
-1. SOBRE NOSOTROS
+1. SOBRE NOSOTROS 
 -----------------
 V&Tech es una plataforma web creada por y para aficionados a la informática,
 nacida con el objetivo de acercar el hardware a la comunidad. Entendemos la
